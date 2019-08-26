@@ -1,7 +1,7 @@
 ---
 title: Free Ruby, C, And Other Languages Books
 date: 2019-08-26 04:38:26 -0400
-tags: Ruby, C, Programming Language, Programming
+tags: [Programming, Ruby, C, Programming Language]
 ---
 
 Hello Dragon Riders, today I bring you some books that were made from Stack Overflow Documentation before it was shutdown.
