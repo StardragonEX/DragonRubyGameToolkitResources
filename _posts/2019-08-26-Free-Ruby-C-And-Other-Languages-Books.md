@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Free Ruby, C, And Other Languages Books
 date: 2019-08-26 04:38:26 -0400
 tags: [Programming, Ruby, C, Programming Language]
