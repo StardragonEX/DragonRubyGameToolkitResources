@@ -1,7 +1,7 @@
 ---
 title: Free Ruby, C, And Other Languages Books
 date: 2019-08-26 04:38:26 -0400
-tags: [DragonRuby Game Toolkit, Ruby, C, Programming Language, Programming]
+tags: Ruby, C, Programming Language, Programming
 ---
 
 Hello Dragon Riders, today I bring you some books that were made from Stack Overflow Documentation before it was shutdown.
