@@ -1,7 +1,10 @@
-theme: jekyll-theme-hacker
+remote_theme: haacked/haackbar
 title: DragonRuby Game Toolkit Resources
-author: Flavio Salvador López Orellana
+author: Flavio Salvador López Orellana a.k.a. StardragonEX
 email: StardragonEX@gmail.com
-description: This site has links to free and paid resources to learn DragonRuby Game Toolkit, Ruby, C, Game Development, etc., everything related to DragonRuby Game Toolkit.
+description: >
+  This site has links to free and paid resources to learn DragonRuby Game Toolkit, Ruby, C, Game Development, etc., everything related to DragonRuby Game Toolkit.
 github_username: StardragonEX
 show_excerpts: true
+
+
